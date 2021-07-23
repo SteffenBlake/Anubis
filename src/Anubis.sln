@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anubis", "Anubis\Anubis.csproj", "{1A230EFB-5717-48FF-9B16-B8ECE3A0E24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A230EFB-5717-48FF-9B16-B8ECE3A0E24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A230EFB-5717-48FF-9B16-B8ECE3A0E24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A230EFB-5717-48FF-9B16-B8ECE3A0E24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A230EFB-5717-48FF-9B16-B8ECE3A0E24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E2AB359-1692-4725-BF89-15058B716804}
+	EndGlobalSection
+EndGlobal
